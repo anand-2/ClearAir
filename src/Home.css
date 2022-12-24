@@ -1,0 +1,56 @@
+.cntr{
+        width: auto;
+}
+.white_header {
+        color: white !important;
+        text-shadow: 0 0 0.5rem white;
+        margin: 1rem;
+}
+#search_button{
+        padding-left: 1rem;
+        tab-size: 2rem;
+} 
+.card_style{
+        margin-left: 2rem;
+        margin-top: 2rem;
+}
+.aqi_card{
+        height: 12rem;
+        font-size: x-large !important;        
+}
+.pollut_card{
+        padding-top: 0rem !important;
+        width: 50rem;
+        font-size: x-large !important;
+        background-color: #ECEFF1 !important;
+}
+
+.poll_class{
+        font-size: large !important;
+        width: 10rem !important;
+        height: 7rem !important ;
+        margin: 1rem !important;
+}
+
+.poll_name{
+        width: 2rem;    
+        height: 2rem;
+}
+
+#red{
+        background-color: rgba(0,0,0,0.2);
+        background-image: url('../public/red.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-blend-mode: multiply;
+
+}
+#green{
+        background-color: rgba(0,0,0,0.2);
+        background-image: url('../public/green.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-blend-mode: multiply;
+}
